@@ -1,24 +1,22 @@
-## 👋 Hi, I'm Siraw Tadesse! 
+👋 Hi, I'm Siraw Tadesse!
+🚀 Full-Stack Software Developer | Backend Engineer | Web & API Specialist
+I'm Siraw Tadesse, a passionate full-stack software developer with a degree in Information Systems from Addis Ababa University. I specialize in building scalable web applications, APIs, and enterprise solutions using modern technologies.
 
-Siraw Tadesse - Software Developer
+🔥 What I Do
+Full-Stack Development: Expert in Next.js, React, Tailwind CSS, and Laravel for building responsive and dynamic web applications.
+Backend Engineering: Skilled in Laravel, Django REST Framework (DRF), Flask, and Node.js to develop robust APIs and backend systems.
+Database Management: Proficient in MySQL, PostgreSQL, and MongoDB for efficient data handling.
+DevOps & Deployment: Experience with Docker, GitHub Actions, and cloud services (Vercel, AWS, DigitalOcean) for smooth deployment.
+API Development: Designing secure and efficient RESTful & GraphQL APIs.
+Data Analysis: Using Python, Pandas, and NumPy to extract insights from data.
+🎯 Looking for Opportunities
+I'm open to remote, full-time, or contract roles in full-stack and backend development. If you're looking for a problem-solver and a passionate developer, let’s connect!
 
-I'm Siraw Tadesse, a recent graduate from Addis Ababa University with a degree in Information Systems. I am passionate about using technology to solve real-world problems and create impactful solutions.
+📬 Contact Me:
+📍 Location: Addis Ababa, Ethiopia
+📧 Email: sirawbizutadesse21@gmail.com | daveyetadulij@gmail.com
+🌐 Portfolio: siraw-website.vercel.app
+💼 GitHub: github.com/siraw
 
-Interests:
+💡 Let’s build something amazing together! 🚀
 
-Software Development: Focusing on backend development, currently learning Node.js and Flask.
-Data Analysis: Exploring the power of data to gain insights and make informed decisions.
-Innovation: Constantly seeking new technologies and approaches to push the boundaries of what's possible.
-Looking for Opportunities:
-
-I'm eager to connect with other developers, learn from experienced professionals, and contribute to exciting projects. If you're working on something interesting, feel free to reach out!
-
-Contact:
-
-Location: Addis Ababa, Ethiopia
-
-Email: daveyetadulij@gmail.com, sirawbizutadesse21@gmail.com
-
-Portfolio: https://siraw-website.vercel.app
-
-Let’s build something amazing together! 🚀
