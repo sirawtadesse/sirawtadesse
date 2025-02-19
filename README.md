@@ -3,7 +3,7 @@
 I'm Siraw Tadesse, a passionate full-stack software developer with a degree in Information Systems from Addis Ababa University. I specialize in building scalable web applications, APIs, and enterprise solutions using modern technologies.
 
 🔥 What I Do
-Full-Stack Development: Expert in Next.js, React, Tailwind CSS, and Laravel for building responsive and dynamic web applications.
+Full-Stack Development: Expert in Next.js, React, Tailwind CSS, and Laravel, Django, flask for building responsive and dynamic web applications.
 Backend Engineering: Skilled in Laravel, Django REST Framework (DRF), Flask, and Node.js to develop robust APIs and backend systems.
 Database Management: Proficient in MySQL, PostgreSQL, and MongoDB for efficient data handling.
 DevOps & Deployment: Experience with Docker, GitHub Actions, and cloud services (Vercel, AWS, DigitalOcean) for smooth deployment.
@@ -16,7 +16,7 @@ I'm open to remote, full-time, or contract roles in full-stack and backend devel
 📍 Location: Addis Ababa, Ethiopia
 📧 Email: sirawbizutadesse21@gmail.com | daveyetadulij@gmail.com
 🌐 Portfolio: siraw-website.vercel.app
-💼 GitHub: github.com/siraw
+💼 GitHub: https://github.com/sirawtadesse/
 
 💡 Let’s build something amazing together! 🚀
 
